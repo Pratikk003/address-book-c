@@ -1,0 +1,18 @@
+# Compiled binaries
+addressbook
+addressbook.exe
+a.out
+*.o
+*.exe
+
+# Runtime data (created when the program runs)
+contacts.csv
+
+# Editor/IDE
+.vscode/
+.vs/
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
